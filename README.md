@@ -1,5 +1,5 @@
 # Scripts
-#portfolio based off course projects
+# portfolio based off course projects
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
